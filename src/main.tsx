@@ -6,6 +6,7 @@ import "./utils/trueTestDetector";
 
 const rootElement = document.getElementById("root");
 if (rootElement) {
+  console.log('Run code within dev branch');
   ReactDOM.createRoot(rootElement).render(
     <React.StrictMode>
       <App />
