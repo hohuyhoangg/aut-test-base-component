@@ -104,3 +104,4 @@ test("should reorder items via drag and drop", async () => {
 - Add tests for new functionality
 - Follow the existing code style
 - Keep pull requests focused on a single feature
+- Test
